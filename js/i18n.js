@@ -26,7 +26,6 @@ const translations = {
     "hero.badge": "LIVE MONITORING & TRACKING TECHNOLOGY",
     "hero.title": "Track your child from the moment they step onto the bus until they arrive home.",
     "hero.subtitle": "ChildrenPath connects families, drivers, and schools with live monitoring, smart alerts, and safe transportation for every ride.",
-    "hero.btn.demo": "Request a demo",
     "hero.btn.plans": "View plans",
     "hero.pill.gps": "GPS Tracking",
     "hero.pill.alerts": "Arrival alerts",
@@ -105,7 +104,7 @@ const translations = {
     "plans.p3.b2": "Family app integration",
     "plans.p3.b3": "Dedicated 24/7 support",
     "plans.btn.select": "Get Started",
-    "plans.btn.request": "Request Demo",
+    "plans.btn.contact": "Contact Us",
 
     // Testimonials
     "testimonials.title": "What our users say",
@@ -127,18 +126,11 @@ const translations = {
     "faq.q4": "Do you offer support for drivers and administrators?",
     "faq.a4": "We provide 24/7 technical assistance and user onboarding for drivers, administrators, and parents.",
 
-    // CTA Banner
-    "cta.title": "Need a custom demo for your fleet or school?",
-    "cta.desc": "Tell us how ChildrenPath can help you improve safety and communication in your school transportation.",
-    "cta.contact": "Contact Us",
-    "cta.phone": "Phone: +51 984 231 995",
-    "cta.email": "Email: hola@childrenpath.com",
-    "cta.whatsapp": "WhatsApp: +51 999 123 456",
-    "cta.hours": "Lima · Peru | Mon-Fri · 09:00 to 18:00",
-    "cta.btn.contact": "Contact Sales",
+    "product.video.title": "About the product",
+    "about.teamVideo.title": "About The Team",
 
     // Contact Page
-    "contact.hero.title": "Request information or a demo for your school community",
+    "contact.hero.title": "Contact us about your school community",
     "contact.hero.desc": "For families, drivers, schools, and transportation companies. We help you choose the best option according to your needs and implement ChildrenPath quickly and safely.",
     "contact.filter.families": "Families",
     "contact.filter.drivers": "Drivers",
@@ -166,8 +158,8 @@ const translations = {
     "contact.form.org": "Company or school",
     "contact.form.orgPlaceholder": "Name of institution",
     "contact.form.message": "Message",
-    "contact.form.messagePlaceholder": "Tell us how many vehicles, routes, or users you need to monitor and what type of demo interests you.",
-    "contact.form.submit": "Request demo",
+    "contact.form.messagePlaceholder": "How can we help you?",
+    "contact.form.submit": "Contact Us",
 
     // About Page
     "about.hero.title": "We are ChildrenPath !",
@@ -238,7 +230,6 @@ const translations = {
     "hero.badge": "TECNOLOGÍA DE MONITOREO Y SEGUIMIENTO EN VIVO",
     "hero.title": "Sigue a tu hijo desde que sube al bus hasta que llega a casa.",
     "hero.subtitle": "ChildrenPath conecta familias, conductores y colegios con monitoreo en vivo, alertas inteligentes y un transporte seguro para cada recorrido.",
-    "hero.btn.demo": "Solicitar demo",
     "hero.btn.plans": "Ver planes",
     "hero.pill.gps": "Seguimiento GPS",
     "hero.pill.alerts": "Alertas de llegada",
@@ -317,7 +308,7 @@ const translations = {
     "plans.p3.b2": "Integración con familias",
     "plans.p3.b3": "Soporte 24/7 dedicado",
     "plans.btn.select": "Contratar",
-    "plans.btn.request": "Solicitar",
+    "plans.btn.contact": "Contáctanos",
 
     // Testimonials
     "testimonials.title": "Lo que dicen nuestros usuarios",
@@ -339,18 +330,11 @@ const translations = {
     "faq.q4": "¿Ofrecen soporte para conductores y administradores?",
     "faq.a4": "Brindamos soporte técnico continuo y capacitación para administradores, conductores y familias.",
 
-    // CTA Banner
-    "cta.title": "¿Necesitas una demo personalizada para tu flota o colegio?",
-    "cta.desc": "Háblanos de cómo ChildrenPath puede ayudarte a mejorar la seguridad y comunicación en tu movilidad escolar.",
-    "cta.contact": "Contacto",
-    "cta.phone": "Teléfono: +51 984 231 995",
-    "cta.email": "Correo: hola@childrenpath.com",
-    "cta.whatsapp": "WhatsApp: +51 999 123 456",
-    "cta.hours": "Lima · Perú | L-V · 09:00 a 18:00",
-    "cta.btn.contact": "Contactar ventas",
+    "product.video.title": "Sobre el producto",
+    "about.teamVideo.title": "Sobre el equipo",
 
     // Contact Page
-    "contact.hero.title": "Solicita información o una demo para tu comunidad escolar",
+    "contact.hero.title": "Contáctanos sobre tu comunidad escolar",
     "contact.hero.desc": "Para familias, conductores, colegios y empresas de movilidad escolar. Te ayudamos a elegir la mejor opción según tus necesidades y a implementar ChildrenPath de forma rápida y segura.",
     "contact.filter.families": "Familias",
     "contact.filter.drivers": "Conductores",
@@ -378,8 +362,8 @@ const translations = {
     "contact.form.org": "Empresa o colegio",
     "contact.form.orgPlaceholder": "Nombre de la institución",
     "contact.form.message": "Mensaje",
-    "contact.form.messagePlaceholder": "Cuéntanos cuántos vehículos, rutas o usuarios necesitas monitorear y qué tipo de demo te interesa.",
-    "contact.form.submit": "Solicitar demo",
+    "contact.form.messagePlaceholder": "¿Cómo podemos ayudarte?",
+    "contact.form.submit": "Contáctanos",
 
     // About Page
     "about.hero.title": "Nosotros somos ChildrenPath !",
